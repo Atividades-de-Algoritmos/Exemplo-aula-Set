@@ -21,6 +21,5 @@ print(conjunto) #mostrar o conjunto cats com os valores
 for i in conjunto: #para cada valor do conjunto cats
   print(f"o valor {i} se repete {l1.count(i)} vezes") #mostrar o valor e a quantidade de vezes que ele se repete na lista l1
   print(f"o valor {i} se repete {l1.count(i):.2f} vezes") # para formatar a saída valor:.2f = 2 casas decimais (:.2f)
-
   
 
